@@ -11,3 +11,5 @@ Language: Bahasa Indonesia
 This is second project from my data science bootcamp. This project is about data analysis of Pakistan's Largest ECommerce, creating stories, visualizations, and then presenting insights from the analysis that hoped can be used as a basis for making business decisions.
 
 The visualizations also can be seen in my [Tableau Public](https://public.tableau.com/app/profile/hari.prasetyo).
+
+Thank you.
