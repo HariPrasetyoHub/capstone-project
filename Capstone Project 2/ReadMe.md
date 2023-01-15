@@ -1,3 +1,5 @@
 
 # Pakistan's Largest ECommerce
-Capstone Project Module 2 Purwadhika
+
+What i used:
+Python 3.9, Jupyter Notebook, Library: numpy, pandas, matplotlib.pyplot, seaborn, scipy, and plotly.express.
