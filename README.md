@@ -1,2 +1,2 @@
 # capstone-project
-Capstone Project from Data Science Bootcamp
+Capstone Project of Data Science Bootcamp from Purwadhika
