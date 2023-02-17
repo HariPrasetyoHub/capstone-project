@@ -21,7 +21,7 @@ This is third project from my data science bootcamp. This project is about makin
 Thank you.
 ***
 
-Language: Bahasa Indonesia
+Language: Bahasa Indonesia<br>
 What i used: Python 3.10.9, Jupyter Notebook on VSCode 1.75.1. on Mac OS 13.1
 
 
