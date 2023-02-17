@@ -12,6 +12,11 @@ The process is includes:
 5. Explanation and Interpretation (feature importance & SHAP Summary plot)
 
 ### **Project Objective**
+1. Know how to make a Machine Learning Model
+1. Can handle data anomalies
+2. Evaluate several model scores using metric evaluation
+3. Practice to interpret the feature in the model
+4. Try to apply ML model to the business
 
 What i used: Python 3.10.9, Jupyter Notebook on VSCode 1.75.1. on Mac OS 13.1
 
