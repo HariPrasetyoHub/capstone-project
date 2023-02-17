@@ -4,7 +4,7 @@
 
 This is third project from my data science bootcamp. This project is about making a Machine Learning **Regression Model** to predict Customer Lifetime Value (CLV) in car insurance Company. 
 
-### **2. The process is includes:**
+### **2. The Process is Includes:**
 1. Data Understanding 
 2. Data Preprocessing (missing value, manage outliers, Log transform, encoding & scaling)
 3. Model Benchmarking ( Linear Regression, KNN Regressor, Decision Tree, Random Forest Regressor and XGBosst Regressor)
