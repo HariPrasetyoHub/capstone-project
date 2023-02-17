@@ -1,17 +1,20 @@
 <h1>Predicting Customer Lifetime Value</h1>
-CLV in Car Insurance
 
-**About the Project:**
-This is third project from my data science bootcamp. This project is about making a Machine Learning Model to predict Customer Lifetime Value (CLV) in Car insurance Company. 
+### **About the Project:**
 
-What i used: Python 3.9, Jupyter Notebook, Library: numpy, pandas, matplotlib.pyplot, seaborn, scipy, and plotly.express.
+This is third project from my data science bootcamp. This project is about making a Machine Learning **Regression Model** to predict Customer Lifetime Value (CLV) in car insurance Company. 
 
-Data source: Kaggle
+The process is includes:
+1. Data Understanding 
+2. Data Preprocessing (missing value, manage outliers, Log transform, encoding & scaling)
+3. Model Benchmarking ( Linear Regression, KNN Regressor, Decision Tree, Random Forest Regressor and XGBosst Regressor)
+4. Metric Evaluation (Mean Absolute Error & Mean Absolute Percentage Error)
+5. Explanation and Interpretation (feature importance & SHAP Summary plot)
+
+### **Project Objective**
+
+What i used: Python 3.10.9, Jupyter Notebook on VSCode 1.75.1. on Mac OS 13.1
 
 Language: Bahasa Indonesia
-
-This is second project from my data science bootcamp. This project is about data analysis of Pakistan's Largest ECommerce, creating stories, visualizations, and then presenting insights from the analysis that hoped can be used as a basis for making business decisions.
-
-The visualizations also can be seen in my Tableau Public.
 
 Thank you.
