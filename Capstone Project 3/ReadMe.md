@@ -1,2 +1,2 @@
-# **Predicting Customer Lifetime Value**
+Predicting Customer Lifetime Value
 Car Insurance
