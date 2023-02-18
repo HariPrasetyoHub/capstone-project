@@ -18,6 +18,21 @@ This is third project from my data science bootcamp. This project is about makin
 3. Practice to interpret the feature in the model
 4. Try to apply ML model to the business
 
+### **4. Dataset:**
+
+|  | **Attribute** | **Data Type** | 
+| --- | --- | --- |
+| 1 | Vehicle Class | Object | 
+| 2 | Coverage | Object | 
+| 3 | Renew Offer Type  | Object | 
+| 4 | EmploymentStatus | Object | 
+| 5 | Marital Status  | Object | 
+| 6 | Education | Object |
+| 7 | Number of Policies | float64 | 
+| 8 | Monthly Premium Auto | float64 | 
+| 9 | Total Claim Amount  | float64 | 
+| 10 | Income | float64 | 
+| 11 | Customer Lifetime Value | float64 | 
 Thank you.
 ***
 
