@@ -33,6 +33,8 @@ This is third project from my data science bootcamp. This project is about makin
 | 9 | Total Claim Amount  | float64 | 
 | 10 | Income | float64 | 
 | 11 | Customer Lifetime Value | float64 | 
+
+
 Thank you.
 ***
 
